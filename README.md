@@ -1,3 +1,4 @@
-# SpringJDBCMappedCollectionBug
+# Spring JDBC Mapped Collection Bug Showcase
 
-Created to support https://github.com/spring-projects/spring-data-relational/issues/2061
+To reproduce or verify the behavior, run the following test:
+- `ListWorksTest`
